@@ -1,0 +1,67 @@
+# Ignore Gradle build output
+/build/
+/app/build/
+
+# Ignore local configuration files
+local.properties
+
+# Ignore IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore APKs
+*.apk
+
+# Ignore generated files
+*.class
+*.dex
+*.jar
+*.war
+*.ear
+
+# Ignore other common files
+*.swp
+*.swo
+
+# Ignore node_modules if exists
+node_modules/
+
+# Ignore coverage reports
+coverage/
+
+# Ignore gradle wrapper logs
+.gradle/
+
+# Ignore dependencies
+**/dependencies/
+**/libs/
+
+# Ignore Python virtual environment
+.venv/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore APKs and archives
+app-debug.apk
+*.rar
+*.zip
+
+# Ignore keystore files
+*.keystore
+
+# Ignore extracted build artifacts
+app/rambam_extracted/
+
+# Ignore local JDKs
+java/
+jdk-*/
